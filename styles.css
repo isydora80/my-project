@@ -31,3 +31,8 @@ body{
 
 .form_section{
     background-color: greenyellow;
+}
+
+table{
+    border-collapse: collapse;
+}
